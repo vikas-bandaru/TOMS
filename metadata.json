@@ -1,0 +1,8 @@
+{
+  "name": "TOMS - Training Operations Management System",
+  "description": "A Zero-Trust ERP for Anurag University acting as the Single Source of Truth for training operations, featuring AI-driven meeting analysis, automated scheduling, and role-based verification.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
